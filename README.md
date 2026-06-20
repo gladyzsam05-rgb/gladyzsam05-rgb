@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Gladys M. Samuel]
 
-<!--
-**gladyzsam05-rgb/gladyzsam05-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning ["Artificial Intelligence"].
+- I'm interested in ["Data Analysis, Drafting Reports and Analysing mass Data"].
+- I'm looking to collaborate on ["Class Assignments and AI Projects"].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- ["Linux Command" and "Creation of Folders and Files"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [Learning AI] — Currently enrolled in Artificial Intelligence class, get to understand how it works, how to effeciently use it for my own advantage.
+
+## How to Reach Me
+- Email: [gladyzsam05@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/gladys-samuel-40b770a5]
